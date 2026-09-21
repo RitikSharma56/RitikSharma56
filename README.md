@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @RitikSharma56
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RitikSharma56/RitikSharma56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @RitikSharma56
+- 👀 I'm interested in Data Analytics, Data Visualization, and turning raw data into insights
+- 🌱 I'm currently learning Data Analysis (Excel, SQL, Python, Power BI/Tableau)
+- 💞️ I'm looking to collaborate on data analysis projects, dashboards, and open-source datasets
+- 📫 How to reach me: ritiksharma569@gmail.com | [LinkedIn](https://www.linkedin.com/in/ritik-sharma-72832532b/)
+- 😄 Pronouns: He/Him
+- 🎓 Studying at Invertis University, Bareilly
+- ⚡ Fun fact: I'm exploring the world of data, one dataset at a time!
